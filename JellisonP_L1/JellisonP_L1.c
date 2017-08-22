@@ -1,4 +1,4 @@
-#include <stdiio.h>
+#include <stdio.h>
 int main()
 {
 	int base;
@@ -9,6 +9,6 @@ int main()
 
 	if (base <= 0 || power <= 0)
 	{
-		printf
+		//printf
 	}
 }
