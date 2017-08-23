@@ -12,6 +12,9 @@ int main()
 		printf("Invalid Numbers");
 	}
 	int finalNum = pow(base, power);
+	printf("Your answer is: %d\n" , finalNum);
+
+	getchar();
 }
 
 int pow(base, power)
